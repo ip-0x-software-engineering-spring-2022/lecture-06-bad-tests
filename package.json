@@ -1,0 +1,22 @@
+{
+  "name": "lecture-06-bad-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://git@github.com/ip-0x-software-engineering-spring-2022/lecture-06-bad-tests.git"
+  },
+  "author": "Oleksandr Kovalchuk <kovalchuk.oleksandr@lll.kpi.ua>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ip-0x-software-engineering-spring-2022/lecture-06-bad-tests/issues"
+  },
+  "homepage": "https://github.com/ip-0x-software-engineering-spring-2022/lecture-06-bad-tests#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
